@@ -195,3 +195,92 @@ footer p, footer a{
 	display: inline;
 	margin-right: 40px;
 }
+
+
+
+/*kontatk*/
+
+
+
+
+#kontakt_left textarea{
+    border-radius: 0!important;
+    border-color: #E4E4E4;
+}
+
+#kontakt_left input{
+    border-radius: 0!important;
+    border-color: #E4E4E4;
+}
+
+#kontakt_left label{
+    padding-bottom: 10px;
+}
+
+#kontakt_left span{
+    padding-top: 5px;
+    font-weight: bold;
+    color: #E9A122;
+}
+
+#kontakt_left button{
+    border: none;
+    border-radius: 0;
+    background: #00A7EF;
+    color: white;
+    width: 100px;
+}
+
+#kontakt_left button:hover{
+    background: #E9A122;
+}
+
+#kontakt_right{
+    border: 1px solid #E4E4E4;
+}
+
+
+#kontakt_right p{
+    padding-left: 10%;
+    padding-top: 10px;
+}
+
+#kontakt_right span{
+    color: #00A7EF;
+}
+
+
+#kontakt_right h5{
+    padding-left: 10%;
+    padding-top: 32px;
+    padding-bottom: 20px;
+}
+
+#kontakt_right{
+    min-height: 285px;
+    margin-bottom: 5px;
+}
+
+#kontakt_right span{
+    color: #00A7EF;
+}
+
+h4 span{
+    color: #26BDEF;
+    font-weight: bold;
+}
+
+.contact{
+    padding-left: 10%;
+    padding-bottom: 13px;
+}
+
+
+#contact_up{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#contact_down{
+    margin-bottom: 30px;
+}
