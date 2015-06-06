@@ -2,6 +2,9 @@
 
 
 /* top-menu */
+*{
+    font-family: 'Open Sans', sans-serif;
+}
 
 .top-menu{
 	padding-top: 26px;
@@ -78,9 +81,16 @@
 	border-bottom: 1px solid #e7e7e7;
 }
 
+h3 span{
+    color: #26BDEF;
+    font-weight: bold;
+}
+
+
 .under-slider p{
 	margin-bottom: 20px;
 	padding: 10px;
+    color: #6f726d;
 }
 
 
@@ -90,6 +100,40 @@
 	margin-top: 60px;
 	padding-bottom: 60px;
 	border-bottom: 1px solid #e7e7e7;
+}
+
+.boxes{
+    border-right: 1px solid #e7e7e7;
+}
+
+.boxes_last{
+    border: none;
+}
+
+.boxes image{
+    border: solid 10px #26BDEF;
+    height: 300px;
+    width: 300px;
+}
+
+.boxes h4{
+    font-weight: 900;
+    color: #484b46;
+}
+
+.boxes p{
+    color: #7f827d;
+    margin: 0 15px;
+}
+
+.boxes_last h4{
+    font-weight: 900;
+    color: #484b46;
+}
+
+.boxes_last p{
+    color: #7f827d;
+    margin: 0 15px;
 }
 
 .boxy h3{
@@ -105,11 +149,17 @@
 }
 
 .galery h3{
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 }
 
 .galery img{
 	margin-bottom: 50px;
+}
+
+.galery  p{
+    margin-bottom: 30px;
+    padding: 10px;
+    color: #6f726d;
 }
 
 
@@ -144,4 +194,93 @@ footer p, footer a{
 .copyright ul li{
 	display: inline;
 	margin-right: 40px;
+}
+
+
+
+/*kontatk*/
+
+
+
+
+#kontakt_left textarea{
+    border-radius: 0!important;
+    border-color: #E4E4E4;
+}
+
+#kontakt_left input{
+    border-radius: 0!important;
+    border-color: #E4E4E4;
+}
+
+#kontakt_left label{
+    padding-bottom: 10px;
+}
+
+#kontakt_left span{
+    padding-top: 5px;
+    font-weight: bold;
+    color: #E9A122;
+}
+
+#kontakt_left button{
+    border: none;
+    border-radius: 0;
+    background: #00A7EF;
+    color: white;
+    width: 100px;
+}
+
+#kontakt_left button:hover{
+    background: #E9A122;
+}
+
+#kontakt_right{
+    border: 1px solid #E4E4E4;
+}
+
+
+#kontakt_right p{
+    padding-left: 10%;
+    padding-top: 10px;
+}
+
+#kontakt_right span{
+    color: #00A7EF;
+}
+
+
+#kontakt_right h5{
+    padding-left: 10%;
+    padding-top: 32px;
+    padding-bottom: 20px;
+}
+
+#kontakt_right{
+    min-height: 285px;
+    margin-bottom: 5px;
+}
+
+#kontakt_right span{
+    color: #00A7EF;
+}
+
+h4 span{
+    color: #26BDEF;
+    font-weight: bold;
+}
+
+.contact{
+    padding-left: 10%;
+    padding-bottom: 13px;
+}
+
+
+#contact_up{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#contact_down{
+    margin-bottom: 30px;
 }

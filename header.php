@@ -8,7 +8,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="index.php"><img src="images/logo_uni_data.png" alt="logo uni_data" class="img-responsive"></a>
+                <a href="index.php"><img src="images/logo_uni_data.png" width="200px" alt="logo uni_data" class="img-responsive"></a>
             </div>
 
             <div class="collapse navbar-collapse" id="main-menu">
