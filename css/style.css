@@ -103,20 +103,16 @@ h3 span{
 }
 
 .boxes{
-    border-right: 1px solid #e7e7e7;
+    margin-bottom: 60px;
 }
 
 .boxes_last{
     border: none;
-}
-
-.boxes image{
-    border: solid 10px #26BDEF;
-    height: 300px;
-    width: 300px;
+    margin-bottom: 60px;
 }
 
 .boxes h4{
+	margin: 12px 0;
     font-weight: 900;
     color: #484b46;
 }
@@ -124,9 +120,11 @@ h3 span{
 .boxes p{
     color: #7f827d;
     margin: 0 15px;
+    text-align: justify;
 }
 
 .boxes_last h4{
+	margin: 12px 0;
     font-weight: 900;
     color: #484b46;
 }
@@ -134,6 +132,7 @@ h3 span{
 .boxes_last p{
     color: #7f827d;
     margin: 0 15px;
+    text-align: justify;
 }
 
 .boxy h3{
@@ -283,4 +282,26 @@ h4 span{
 
 #contact_down{
     margin-bottom: 30px;
+    padding-bottom: 60px;
+}
+
+
+
+
+/* Terminale */
+
+.content-terminale{
+	padding-bottom: 70px;
+}
+
+.content-terminale h3{
+	margin: 50px 0 30px 0;
+}
+
+.content-terminale p, .content-terminale ul li{
+	padding: 6px 14px 0 14px;
+}
+
+.content-terminale img{
+	margin-top: 30px;
 }

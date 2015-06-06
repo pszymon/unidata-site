@@ -32,37 +32,48 @@
 <div class="under-slider">
     <div class="container">
         <div class="row">
-            <h3>Witaj na stronie <span>UNIDATA</span> zajmujemy się...</h3>
+            <h3>Witaj na stronie <span>UNIDATA</span></h3>
             <p>W ofercie UNIDATA znajdziecie Państwo niezawodne kasy fiskalne, czytniki, drukarki fiskalne, wagi, kolektory danych, metkownice, komputery POS oraz kompleksowe systemy sprzedaży.</p>
-
         </div>
     </div>
 </div>
 
 
-
 <div class="container-fluid text-center boxy">
     <div class="row">
         <h3>Nasza oferta</h3>
-        <div class="col-md-3 boxes">
-            <img src="images/drukarka_fiskalna.png" alt="drukarki fiskalne" height="150px;"/>
+        <div class="col-md-4 boxes">
+            <img src="images/kasa_fiskalna_box.jpg" alt="kasy fiskalne" height="150px;"/>
             <h4>Kasy fiskalne</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis illum cum asperiores unde minus explicabo saepe perferendis aspernatur, officiis tenetur porro laudantium non quaerat reiciendis ipsum maiores praesentium maxime. Ut.</p>
+            <p>Nowoczesna kasy fiskalne przeznaczona do pracy w mobilnych  i stacjonarnych punktach handlowych, gastronomicznych i usługowych. Kasy z papierową i elektroniczną kopią , wg wytycznych Rozporządzenia MF z dnia 28 listopada 2008 r. Wszystkie, kasy z najnowszą homologacją Prezesa Głównego Urzędu Miar. </p>
         </div>
-        <div class="col-md-3 boxes">
-            <img src="images/kasa_fiskalna.jpg" alt="kasy fiskalne" height="150px;"/>
+        <div class="col-md-4 boxes">
+            <img src="images/drukarki_fiskalne_box.jpg" alt="drukarki fiskalne" height="150px;"/>
             <h4>Drukarki fiskalne</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda quod fugit labore sequi, eos sapiente veritatis minima modi repudiandae ipsa dolor commodi ut eveniet, quae adipisci. Dolorem quaerat, magni eligendi?</p>
+            <p>Najnowocześniejsze drukarki fiskalne z elektroniczną kopią paragonu dedykowana do małych i średnich punktów handlowych, gdzie sprzedaż prowadzona jest z programu komputerowego a drukarka będzie fiskalnym uzupełnieniem tego stanowiska. Cechy użytkowe drukarki (np. mechanizm drukujący "wrzuć i pracuj", drukowanie faktur VAT bezpośrednio na swoim mechanizmie drukującym).</p>
         </div>
-        <div class="col-md-3 boxes">
-            <img src="images/waga_fiskalna.jpg" alt="wagi fiskalne" height="150px;"/>
-            <h4>Wagi fiskalne</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium sed facilis omnis quisquam optio, numquam voluptatem vero repellendus iure animi necessitatibus incidunt quas, ut et debitis. Omnis eius, est distinctio.</p>
+        <div class="col-md-4 boxes_last">
+            <img src="images/wagi_sklepowe_box.jpg" alt="wagi sklepowe" height="150px;"/>
+            <h4>Wagi sklepowe</h4>
+            <p>Elektroniczna, legalizowana, sklepowa waga kalkulacyjne do szybkiego i precyzyjnego określania masy ważonych przedmiotów oraz należności.  Waga kalkulacyjna oferowane przez UNIDATA , dzięki wielu funkcjom bardzo dobrze sprawdza się w sprzedaży detalicznej oraz rozliczeniach handlowych.</p>
         </div>
-        <div class="col-md-3 boxes_last">
-            <img src="images/czytnik_kodow.jpg" alt="czytniki kodow" height="150px;"/>
+
+        <div class="clearfix"></div>
+        
+        <div class="col-md-4 boxes">
+            <img src="images/czytniki_kodow_box.jpg" alt="czytniki kodow" height="150px;"/>
             <h4>Czytniki kodów</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa impedit ad voluptatum accusantium, aspernatur, tenetur hic vel. Optio atque sed iusto, rem voluptatibus soluta obcaecati expedita, sequi quaerat praesentium eum!</p>
+            <p>Czytniki kodów kreskowych przeznaczone są do odczytu oraz przesłania, do komputera lub innego urządzenia, informacji zawartych w kodzie kreskowym lub kodzie dwuwymiarowym. Oferowane przez nas czytniki  charakteryzuje wysokiej jakości układ laserowy- pierwsza klasa bezpieczeństwa dla użytkownika oraz ergonomiczne wzornictwo połączone z najwyższej jakości materiałami użytymi do ich produkcji.</p>
+        </div>
+        <div class="col-md-4 boxes">
+            <img src="images/sprawdzarki_cen_box.jpg" alt="sprawdzarki cen" height="150px;"/>
+            <h4>Sprawdzarki cen</h4>
+            <p>Sprawdzarka cen NQuire to urządzenie przeznaczone do wszelkiego rodzaju placówek handlowych, gdzie istnieje potrzeba udostępnienia klientowi możliwości weryfikacji ceny produktu oraz jego nazwy.</p>
+        </div>
+        <div class="col-md-4 boxes_last">
+            <img src="images/terminale_platnicze_box.jpg" alt="terminale płatnicze" height="150px;"/>
+            <h4>Terminale płatnicze</h4>
+            <p>Oferuje Klientom terminale płatnicze firmy paytel – zarówno stacjonarne, jak i przenośne. Zapewniane przez nas terminale pos są platformą umożliwiającą punktom handlowym i usługowym świadczenie różnego typu usług, oferowanych bezpośrednio przez naszą firmę, bądź też we współpracy z Partnerami.</p>
         </div>
     </div><!-- end row -->
 </div><!-- end container-fluid text-center boxy -->
@@ -76,14 +87,12 @@
 
     </div>
 
-    <div class="row">
-
-
+    <!-- <div class="row">
         <div class="col-lg-3">
-            <img src="images/drukarka_fiskalna.png" alt="drukarki fiskalne" height="250px;"/>
+            <img src="images/kasy_systemowe.png" alt="drukarki fiskalne" height="250px;"/>
         </div>
         <div class="col-lg-3">
-            <img src="images/kasa_fiskalna.jpg" alt="kasy fiskalne" height="250px;"/>
+            <img src="images/kasy_systemowe.jpg" alt="kasy fiskalne" height="250px;"/>
         </div>
         <div class="col-lg-3">
             <img src="images/waga_fiskalna.jpg" alt="wagi fiskalne" height="250px;"/>
