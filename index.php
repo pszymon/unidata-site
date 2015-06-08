@@ -16,7 +16,9 @@
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <script src="js/bootstrap.min.js" defer="defer"></script>										<!-- Bootstrap js -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>		<!-- jquery -->
-
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/component.css" />
+    <script src="js/modernizr.custom.js"></script>
 
 
 </head>
@@ -87,35 +89,10 @@
 
     </div>
 
-    <!-- <div class="row">
-        <div class="col-lg-3">
-            <img src="images/kasy_systemowe.png" alt="drukarki fiskalne" height="250px;"/>
-        </div>
-        <div class="col-lg-3">
-            <img src="images/kasy_systemowe.jpg" alt="kasy fiskalne" height="250px;"/>
-        </div>
-        <div class="col-lg-3">
-            <img src="images/waga_fiskalna.jpg" alt="wagi fiskalne" height="250px;"/>
-        </div>
-        <div class="col-lg-3">
-            <img src="images/czytnik_kodow.jpg" alt="czytniki kodow" height="250px;"/>
-        </div>
-        <div class="col-lg-3">
-            <img src="images/drukarka_fiskalna.png" alt="drukarki fiskalne" height="250px;"/>
-        </div>
-        <div class="col-lg-3">
-            <img src="images/kasa_fiskalna.jpg" alt="kasy fiskalne" height="250px;"/>
-        </div>
-        <div class="col-lg-3">
-            <img src="images/waga_fiskalna.jpg" alt="wagi fiskalne" height="250px;"/>
-        </div>
-        <div class="col-lg-3">
-            <img src="images/czytnik_kodow.jpg" alt="czytniki kodow" height="250px;"/>
-        </div>
-    </div><!-- end row -->
+
 </div><!-- end container-fluid text-center galery -->
 
-
+<?php include('galeria.php'); ?>
 
 <?php include('footer.php'); ?>
 
