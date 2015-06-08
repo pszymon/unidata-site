@@ -51,42 +51,42 @@
             <ul>
                 <li>
                     <figure>
-                        <img src="img/thumb/drukarki_fiskalne_elzab.png" alt="img01"/>
+                        <img src="img/large/drukarki_fiskalne_elzab.png" alt="img01"/>
                     </figure>
                 </li>
                 <li>
                     <figure>
-                        <img src="img/thumb/drukarki_fiskalne_novitus.jpg" alt="img02"/>
+                        <img src="img/large/drukarki_fiskalne_novitus.jpg" alt="img02"/>
                     </figure>
                 </li>
                 <li>
                     <figure>
-                        <img src="img/thumb/kasy_mobilne_elzab.jpg" alt="img03"/>
+                        <img src="img/large/kasy_mobilne_elzab.jpg" alt="img03"/>
                     </figure>
                 </li>
                 <li>
                     <figure>
-                        <img src="img/thumb/kasy_mobilne_novitus.jpeg" alt="img04"/>
+                        <img src="img/large/kasy_mobilne_novitus.jpeg" alt="img04"/>
                     </figure>
                 </li>
                 <li>
                     <figure>
-                        <img src="img/thumb/kasy_srednie_elzab.png" alt="img05"/>
+                        <img src="img/large/kasy_srednie_elzab.png" alt="img05"/>
                     </figure>
                 </li>
                 <li>
                     <figure>
-                        <img src="img/thumb/kasy_srednie_novitus.jpg" alt="img06"/>
+                        <img src="img/large/kasy_srednie_novitus.jpg" alt="img06"/>
                     </figure>
                 </li>
                 <li>
                     <figure>
-                        <img src="img/thumb/kasy_systemowe_elzab.jpg" alt="img01"/>
+                        <img src="img/large/kasy_systemowe_elzab.jpg" alt="img01"/>
                     </figure>
                 </li>
                 <li>
                     <figure>
-                        <img src="img/thumb/kasy_systemowe_novitus.jpg" alt="img02"/>
+                        <img src="img/large/kasy_systemowe_novitus.jpg" alt="img02"/>
                     </figure>
                 </li>
 <!--                <li>-->
