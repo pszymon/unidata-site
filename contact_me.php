@@ -1,8 +1,8 @@
 ﻿<?php
 if($_POST)
 {
- $to_Email = "mariusz899@gmail.com"; //Podaj tu email docelowyw
- $subject = 'Formularz kontaktowy webtar'; //Tutaj temat wiadomości - możesz też wykorzystać pole formularza i pobrać tą wartość od klienta :)
+ $to_Email = "biuro@unidata.pl "; //Podaj tu email docelowyw
+ $subject = 'Formularz kontaktowy unidata'; //Tutaj temat wiadomości - możesz też wykorzystać pole formularza i pobrać tą wartość od klienta :)
  
  
  //Sprawdzamy czy jest to rządanie Ajax, jeśli nie..
